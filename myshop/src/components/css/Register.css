@@ -1,0 +1,27 @@
+.registerbox input{
+    border: hidden;
+    outline: none;
+    border-bottom: 2px solid grey;
+    width: 100%;
+}
+.registerbox button{
+    width: 100%;
+    padding: 6px;
+    border-radius: 10px;
+    border: none;
+}
+.container-fluidx{
+   
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+    background-image: linear-gradient(rgb(96, 55, 138),white);
+}
+.registerbox{
+    background-color: rgb(255, 255, 255);
+    border-radius: 9px;
+    
+}

@@ -1,0 +1,14 @@
+.signinbox{
+    transition: 3s;
+    width: 600px;
+    height: 300px;
+    background-color: whitesmoke;
+    box-shadow: 0 0 3px 3px rgb(166, 229, 238);
+    margin: auto;
+position: absolute;
+top:-450px;
+
+
+}
+
+

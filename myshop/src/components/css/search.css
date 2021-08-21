@@ -1,0 +1,67 @@
+.search section{
+    background-color: white;
+}
+.search,.buyitem,.buydash {
+    font-family:'Times New Roman', Times, serif
+}
+.buydash {
+    font-family: 'Zen Dots', cursive;
+}
+
+.search{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.search .searchhome:hover{
+transform: scale(0.9);
+box-shadow: 0 0 3px 3px grey;
+}
+.search .searchexplore{
+   
+    transition: 0.6s;
+    }
+.search .searchexplore:hover{
+    transform: scale(1.1);
+    }
+    
+    .buyitem{
+        font-family: Arial, Helvetica, sans-serif
+    }
+
+    .buyitem section{
+        background-color: white;
+    }
+    
+    .search .searchhome{
+        transition: 0.4s;
+       /* background-color: rgb(121, 121, 121); */
+       box-shadow:0 0 3px blue;
+        }
+        .mycarousal{
+            height: 500px;
+        }
+        .carouseltext{
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            font-weight: bold;
+            text-shadow: 1px 1px 5px skyblue;
+        }
+       .searchtext{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        text-shadow: 1px 1px 5px rgb(218, 223, 224);
+       }
+
+        @media screen and (max-width: 600px) {
+.mycarousal{
+    height: 200px;
+}
+.carouseltext{
+    font-size: 17px;
+    color: rgb(240, 240, 240);
+    
+}
+.searchtext{
+     font-size: 17px;
+   }
+        }
