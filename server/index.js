@@ -24,7 +24,7 @@ require('dotenv').config()
 // Atlas ==================
 mongoose.Promise =global.Promise;
 // mongoose.connect('mongodb://localhost:27017/Myshop',{
-    mongoose.connect('mongodb+srv://xscience:xscience@4438@myshopcluster.rwosa.mongodb.net/Myshop?retryWrites=true&w=majority',
+    mongoose.connect('http://localhost:3000',
     {
     useNewUrlParser:true,
     useUnifiedTopology:true,
