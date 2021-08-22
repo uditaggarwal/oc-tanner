@@ -43,7 +43,7 @@ There are some problems with the existing system that discussed below.
 	<th>Current System</th>
 	<tr>
 		<td>Require high speed internet due page reload again.</td>
-		<td>Require slow internet connection and less require page reload.</td>
+		<td>also work on slow internet connection and less require page reload.</td>
 	</tr>
 	<tr>
 		<td>Difficulty face in purchase product.</td>
